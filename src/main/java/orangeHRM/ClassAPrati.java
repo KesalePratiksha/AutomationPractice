@@ -10,6 +10,8 @@ public class ClassAPrati {
 		System.out.println(" Hello");
 		
 		System.out.println("Omkar is Brilliant boy");
+		
+		System.out.println("Yeah");
 	}
 
 }
